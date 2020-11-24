@@ -1,0 +1,8 @@
+
+Friday 10 July, 11:30 PM: Finished debugging the single memory bonus (co-worked)
+
+Satuerday 11 July, 09:55 PM: finished installing and debugging the forwarding and hazard unit
+
+Saterday 11 July, 5:00 PM: Finished implementing the new control hazard for the ID bonus
+
+Satuerday 11 July, 6:27 PM: finished implementing the the two nop instructions and the instruction of break

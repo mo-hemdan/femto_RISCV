@@ -1,0 +1,6 @@
+
+Wednesday 8 July, 12:00 PM: finished editing the memory implementation to be single ported and finished resolving associated errors
+
+Friday 10 July, 5:00 PM: finished editing the memory implementation to resolve the problem of structural hazard introduced and make instruction fetch every clock cycle
+
+Saturday 11 July, 11:00PM: finished testing the processor and solve associated errors.
